@@ -1,5 +1,8 @@
 {
     "require": {
         "orhanerday/open-ai": "^4.7"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.1"
     }
 }
